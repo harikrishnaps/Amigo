@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Amigo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create new account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SignUp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="user_list">
+
+        <item> Select user </item>
+        <item>Traveller</item>
+        <item>Guide</item>
+        <item>Travel Agency</item>
+    </string-array>
+
+
+    <!--Drawer Strings -->
+    <string name="navigation_drawer_destination">Destinations</string>
+    <string name="navigation_drawer_travel">Travel</string>
+    <string name="navigation_drawer_utilities">Utilities</string>
+    <string name="navigation_drawer_about_us">About Us</string>
+    <string name="navigation_drawer_sign_out">Sign Out</string>
+    <string name="navigation_drawer_my_friends">My Friends</string>
+    <string name="navigation_drawer_my_trip">My Trip</string>
+    <string name="navigation_drawer_settings">Settings</string>
+
+</resources>
